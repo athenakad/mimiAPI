@@ -2,7 +2,7 @@
 
 ## Overview
 
-Steps to create MimicAPI:
+Steps to create mimiAPI:
 
 1. Consume data from the API endpoint( make HTTP get requests to the API endpoint to retrieve the dataset and extract the necessary data).
 2. Establish a connection to RabbitMQ(create a connection and a channel to communicate with the RabbitMQ server).
@@ -15,7 +15,7 @@ Steps to create MimicAPI:
 Install the needed packages
 
 ```bash
-git clone "https://github.com/athenakad/mimiAPI"
-cd mimicAPI
-pip3 install -r "requirements.txt"
+git clone "git clone "https://github.com/athenakad/mimiAPI"
+cd mimiAPI
+pip3 install -r "requirements.txt""
 ```
